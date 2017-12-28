@@ -1,4 +1,4 @@
-# Formula1 Fortunes
+# Formula1 Team Radio Fortunes
 
 This is a small collection of F1 Team Radio for `fortune(6)` UNIX command.
 
