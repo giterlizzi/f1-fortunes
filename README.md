@@ -28,7 +28,7 @@ The most easiest way to integrate fortune into a system is to place the followin
 
     $ fortune f1
 
-    ~~ TEAM RADIO ~~
+    [ TEAM RADIO ]
 
       ALO: What Palmer is doing ?! He needs to give me back the position.
           He cut the chicane.
@@ -49,4 +49,4 @@ The most easiest way to integrate fortune into a system is to place the followin
 
 ## Copyright
 
- - Copyright 2017 © Giuseppe Di Terlizzi
+ - Copyright 2017-2018 © Giuseppe Di Terlizzi
