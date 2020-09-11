@@ -49,4 +49,4 @@ The most easiest way to integrate fortune into a system is to place the followin
 
 ## Copyright
 
- - Copyright 2017-2018 © Giuseppe Di Terlizzi
+ - Copyright 2017-2020 © Giuseppe Di Terlizzi
