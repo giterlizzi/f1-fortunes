@@ -30,23 +30,23 @@ The most easiest way to integrate fortune into a system is to place the followin
 
     [ TEAM RADIO ]
 
-      ALO: What Palmer is doing ?! He needs to give me back the position.
-          He cut the chicane.
+    ALO: What Palmer is doing ?! He needs to give me back the position.
+         He cut the chicane.
 
-      (...)
+    (...)
 
-      Box: Palmer has five-seconds penality
-      ALO: Five seconds, it's a joke...
+    Box: Palmer has five-seconds penality
+    ALO: Five seconds, it's a joke...
 
-      (after few laps)
+    (after few laps)
 
-      ALO: Where is Palmer ?
-      Box: Fernando, Palmer has retired
-      ALO: Karma!!!
+    ALO: Where is Palmer ?
+    Box: Fernando, Palmer has retired
+    ALO: Karma!!!
 
             ― Fernando Alonso, Italian "Monza" F1 GP 2017
 
 
 ## Copyright
 
- - Copyright 2017-2020 © Giuseppe Di Terlizzi
+ - Copyright 2017-2021 © Giuseppe Di Terlizzi
