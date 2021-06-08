@@ -62,7 +62,7 @@ ALO     I really don't care too much off the gaps,
         This is just... a test!
                 -- Fernando Alonso, Belgian "Spa Francorchamps" F1 GP 2017
 %
-[ ~ TEAM RADIO ~ ]
+[ TEAM RADIO ]
 
  Box    OK Fernando, suggest shape 4 to protect rears.
         Just be careful of front locking.
@@ -117,5 +117,7 @@ Mazepin will never change
 Felipe... Fernando is faster than you
                 -- Rob Smedley (Felipe engineer), German "Hockenheim" F1 GP 2010
 %
-[ RACE CONTROL ] Incident involving 1000 UID (you) under investigation - User is
-                 not in the sudoers file.
+        [ RACE CONTROL ] INCIDENT INVOLVING 1000 UID (YOU) UNDER INVESTIGATION -
+                         USER IS NOT IN THE SUDOERS FILE
+%
+        [ RACE CONTROL ] SUDO ENABLED
