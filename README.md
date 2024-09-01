@@ -30,23 +30,28 @@ The most easiest way to integrate fortune into a system is to place the followin
 
     [ TEAM RADIO ]
 
-    ALO: What Palmer is doing ?! He needs to give me back the position.
-         He cut the chicane.
+    ALO     What Palmer is doing ?! He needs to give me back the position.
+            He cut the chicane.
 
     (...)
 
-    Box: Palmer has five-seconds penality
-    ALO: Five seconds, it's a joke...
+    Box     Palmer has five-seconds penality
+    ALO     Five seconds, it's a joke...
 
-    (after few laps)
+            (after few laps)
 
-    ALO: Where is Palmer ?
-    Box: Fernando, Palmer has retired
-    ALO: Karma!!!
+    ALO     Where is Palmer ?
+    Box     Fernando, Palmer has retired
+    ALO     Karma!!!
+                    -- Fernando Alonso, Italian "Monza" F1 GP 2017
 
-            ― Fernando Alonso, Italian "Monza" F1 GP 2017
+            
+    $ fortune f1
 
+    Tutto regolare fino a questo momento!
+                    -- Gianfranco "il Sommo" Mazzoni, at the start of the
+                       Belgian "Spa Francorchamps" F1 GP 1998
 
 ## Copyright
 
- - Copyright 2017-2021 © Giuseppe Di Terlizzi
+ - Copyright 2017-2024 © Giuseppe Di Terlizzi
