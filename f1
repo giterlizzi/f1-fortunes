@@ -117,12 +117,12 @@ Mazepin will never change
 Felipe... Fernando is faster than you
                 -- Rob Smedley (Felipe engineer), 2010 German "Hockenheim" GP
 %
-        [ RACE CONTROL ] INCIDENT INVOLVING 1000 UID (YOU) UNDER INVESTIGATION -
+        [ RACE CONTROL ] INCIDENT INVOLVING UID 1000 (YOU) UNDER INVESTIGATION -
                          USER IS NOT IN THE SUDOERS FILE
 %
         [ RACE CONTROL ] SUDO ENABLED
 %
-        [ RACE CONTROL ] NO FURTHER ACTION - INCIDENT INVOLVING 1000 UID (YOU) -
+        [ RACE CONTROL ] NO FURTHER ACTION - INCIDENT INVOLVING UID 1000 (YOU) -
                          USER IS NOT IN THE SUDOERS FILE
 %
 Valtteri, it's James
@@ -150,3 +150,6 @@ LEC     Let's add that to the words of wisdom.
 GP2 engine! GP2! ARGHHH!
                 -- Fernando Alonso after being easily being overtaken by a
                    Toro Rosso in his McLaren-Honda at the 2015 Japanese GP
+%
+        [ FIA STEWARDS ] COLAPINTO-AND-GO PENALITY FOR CAR 43 (COL)
+                -- A new penalty was born during 2026 Australian "Melbourne" GP
